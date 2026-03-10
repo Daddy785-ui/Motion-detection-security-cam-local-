@@ -21,7 +21,7 @@ A lightweight Python script that turns your webcam into a motion detection secur
 
 1. **Clone or download this repo**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/motion-security-cam-local.git
+   git clone https://github.com/Daddy785-ui/Motion-detection-security-cam-local-.git
    cd motion-security-cam-local
 Install required packages
 
